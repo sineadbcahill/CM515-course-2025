@@ -12,4 +12,4 @@
 
 ## Link to my website: 
 
-[Sinead Cahill] (https://sineadbcahill.github.io/)
+[Sinead Cahill](https://sineadbcahill.github.io/)
