@@ -2,7 +2,7 @@
 
 ## For R: 
 1. [Programming Basics](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main/modules/12_Programming_Basics)
-2. [Presenting Data](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main/modules)
+2. [Presenting Data](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main/modules/10_Presenting_Data)
 3. [ggplot visualization](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main/modules/05_GGplot_Visualization)
 4. [tidyverse](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main/modules/04_Tidyverse)
 
